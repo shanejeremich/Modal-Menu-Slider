@@ -1,4 +1,4 @@
-# Landing-Page
+# Modal Menu Slider
 
 You can find the deployed project at [Modal Menu Slider](https://sjeremich23.github.io/Modal-Menu-Slider/)
 
