@@ -1,6 +1,6 @@
 # Modal Menu Slider
 
-You can find the deployed project at [Modal Menu Slider](https://sjeremich23.github.io/Modal-Menu-Slider/)
+You can find the deployed project at [Modal Menu Slider](https://shanejeremich.github.io/Modal-Menu-Slider/)
 
 ## Overview
 
@@ -13,10 +13,10 @@ This is a sample page that has a navigation menu inside a modal that slides in a
 
 ## Contributors
 
-|                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
+|                                        [Shane Jeremich](https://github.com/shanejeremich)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
-|                         [<img src="images/shane.png" width = "200" />](https://github.com/sjeremich23)                         |
-|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
+|                         [<img src="https://avatars.githubusercontent.com/u/51142646?v=4" width = "200" />](https://github.com/shanejeremich)                         |
+|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shanejeremich)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
 <br>
@@ -36,7 +36,7 @@ This is a sample page that has a navigation menu inside a modal that slides in a
 
 ### Front end deployed to `GitHub Pages`
 
-> [Modal Menu Slider](https://sjeremich23.github.io/Modal-Menu-Slider/)
+> [Modal Menu Slider](https://shanejeremich.github.io/Modal-Menu-Slider/)
 
 # Getting Started
 
